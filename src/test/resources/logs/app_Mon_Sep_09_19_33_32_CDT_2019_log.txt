@@ -1,0 +1,2 @@
+INFO    2019-09-09 19:33:32,906 [main] log4jExamples.Log4jTest  - Info log
+ERROR   2019-09-09 19:33:32,909 [main] log4jExamples.Log4jTest  - error log
